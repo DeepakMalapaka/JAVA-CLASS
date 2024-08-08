@@ -1,5 +1,5 @@
 import java.util.*;
-class Count{
+class Print{
 public static void main(String args[]){
 	int i;
 	int num;
