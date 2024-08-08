@@ -1,5 +1,5 @@
 import java.util.*;
-class Alphabet {
+class Alphabet_switch {
     public static void main (String args[]) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter a alphabet to check either it is vowel or consonant:");
