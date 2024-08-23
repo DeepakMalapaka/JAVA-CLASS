@@ -10,7 +10,7 @@ class Local_Variable
       a=sc.nextInt();
       System.out.println("Enter value of B : ");
       b=sc.nextInt();
-      System.out.println("The value of  A is "+a);
+      System.out.println("value of  A is "+a);
       System.out.println(b);
     }
 
